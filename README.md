@@ -119,6 +119,8 @@ Contraseña que debería funcionar:
 
 - `Segura123Xy` (más de 10 caracteres, mayúscula, minúscula, número, sin palabras prohibidas)
 
+![Captura de pantalla 2025-04-15 233637](https://github.com/user-attachments/assets/23c6d5c9-4114-4dc5-8505-828faf232325)
+
 ---
 
 ## 3. ⚙️ Comandos de servicios
@@ -189,3 +191,5 @@ sudo chmod o+w /etc/profile
 > Si cualquier usuario puede modificarlo, podría ejecutar scripts maliciosos al iniciar sesión.
 
 **❌ Es un gran riesgo de seguridad.**
+
+
