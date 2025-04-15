@@ -173,7 +173,7 @@ sudo systemctl disable --now NetworkManager
 
 **Numérico:**
 ```bash
-sudo chmod 644 /etc/profile
+sudo chmod 646 /etc/profile
 ```
 
 **Texto:**
